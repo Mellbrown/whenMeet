@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="시간표 목록 보기" android:id="@+id/sheet_list"/>
+    <item android:title="방 제목 바꾸기" android:id="@+id/change_title"/>
+    <item android:title="방 나가기" android:id="@+id/out_room"/>
+</menu>
